@@ -5,7 +5,7 @@
    * +79533675541
    * @alza1310
 # About me
-3. I would like to work as a programmer. And I hope I'll learn something from RSschool.
+3. I would like to work as a programmer. And I hope I'll learn a lot from RSschool.
 # Skills
 4. HTML, CSS, Swift.
 5. I have no code examples.
