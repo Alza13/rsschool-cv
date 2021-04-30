@@ -1,13 +1,13 @@
 ## CV
-Alena Zakharova
-My contacts
+1. Alena Zakharova
+2. My contacts
    * aazakh@mail.ru
    * +79533675541
    * @alza1310
 # About me
-I would like to work as a programmer. And I hope I'll learn something from RSschool.
+3. I would like to work as a programmer. And I hope I'll learn something from RSschool.
 # Skills
-HTML, CSS, Swift.
-I have no code examples.
-I've finished CS 50.
-My English level is Intermediate.
+4. HTML, CSS, Swift.
+5. I have no code examples.
+6. I've finished CS 50.
+7. My English level is Intermediate.
