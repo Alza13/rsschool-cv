@@ -5,8 +5,11 @@
 ### My contacts:
 
 E-mail: aazakh@mail.ru
+
 Phone: +79533675541
+
 Telegram: @alza1310
+
 [LinkedIn](https://www.linkedin.com/in/alena-zakharova-08442721a/)
 
 ### About me:
