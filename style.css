@@ -51,6 +51,11 @@ html {
   scroll-behavior: smooth; 
 }
 
+.contacts {
+  list-style: none;
+  line-height: 1.5;
+}
+
 .about-me {
   width: 90vh;
 }
